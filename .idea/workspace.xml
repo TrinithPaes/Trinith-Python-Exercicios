@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c43fc3d-d3a7-488a-a746-0de52f6ca18d" name="Changes" comment="" />
+    <list default="true" id="9c43fc3d-d3a7-488a-a746-0de52f6ca18d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +29,12 @@
     &quot;assignee&quot;: &quot;TrinithPaes&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TrinithPaes/Trinith-Python-Exercicios.git",
-    "accountId": "c94e90f6-106f-4713-b95c-87c9a5bdae5d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TrinithPaes/Trinith-Python-Exercicios.git&quot;,
+    &quot;accountId&quot;: &quot;c94e90f6-106f-4713-b95c-87c9a5bdae5d&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex009.executor": "Run",
+    "Python.ex040.executor": "Run",
     "Python.ex041.executor": "Run",
     "Python.ex042.executor": "Run",
     "Python.ex043.executor": "Run",
@@ -56,6 +60,7 @@
     "Python.ex047.executor": "Run",
     "Python.ex048.executor": "Run",
     "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,7 +80,7 @@
       <recent name="C:\Users\trini\PycharmProjects\pythonexercircio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercircio" />
       <option name="ENV_FILES" value="" />
@@ -210,10 +215,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex040" />
         <item itemvalue="Python.ex042" />
         <item itemvalue="Python.ex041" />
         <item itemvalue="Python.ex035" />
-        <item itemvalue="Python.ex040" />
         <item itemvalue="Python.ex001" />
       </list>
     </recent_temporary>
@@ -221,7 +226,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
