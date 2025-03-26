@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c43fc3d-d3a7-488a-a746-0de52f6ca18d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,30 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex009.executor": "Run",
-    "Python.ex040.executor": "Run",
-    "Python.ex041.executor": "Run",
-    "Python.ex042.executor": "Run",
-    "Python.ex043.executor": "Run",
-    "Python.ex044.executor": "Run",
-    "Python.ex045.executor": "Run",
-    "Python.ex046.executor": "Run",
-    "Python.ex047.executor": "Run",
-    "Python.ex048.executor": "Run",
-    "Python.ex050.executor": "Run",
-    "Python.ex051.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/trini/PycharmProjects/pythonexercircios",
-    "settings.editor.selected.configurable": "configurable.group.project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/trini/PycharmProjects/pythonexercircios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\trini\PycharmProjects\pythonexercircio\venv" />
@@ -80,7 +79,7 @@
       <recent name="C:\Users\trini\PycharmProjects\pythonexercircio" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercircio" />
       <option name="ENV_FILES" value="" />
